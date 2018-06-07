@@ -50,7 +50,7 @@ python webscraper.py
 
 ## Authors
 
-Mohammad Khairul Bin Abdullah
+Khaislt
 
 ## Final Notes:
 * Need to work on scraping websites that have their HTML Loaded by Javascript(See Selenium)
