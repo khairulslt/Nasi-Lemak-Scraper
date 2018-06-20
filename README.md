@@ -1,4 +1,4 @@
-# COCO RICE SCRAPER!
+# rice scraper
 
 
 ### Introduction
